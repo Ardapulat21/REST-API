@@ -1,0 +1,6 @@
+@QualifiedAuthentication_HostAddress = http://localhost:5192
+
+GET {{QualifiedAuthentication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
